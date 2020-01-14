@@ -5,11 +5,11 @@
 ### Allows To Show Picture In Picture Mode For Videos Automatically For Every Next Episode
 
 ### Self Link
-[https://github.com/Gotham13121997/netflix-auto-pip](https://github.com/Gotham13121997/netflix-auto-pip)
+[**https://github.com/Gotham13121997/netflix-auto-pip**](https://github.com/Gotham13121997/netflix-auto-pip)
 
-[How To Install Extensions In Developer Mode. In src folder](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)  
+[**How To Install Extensions In Developer Mode. In src folder**](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)  
 
-[A Helpful Chrome Extension For Auto Skipping End Credits](https://chrome.google.com/webstore/detail/netflix-extended/gjcgfkhgpaccjpjokgpekpgpphgaanej?hl=en)
+[**Helpful Chrome Extension For Auto Skipping End Credits**](https://chrome.google.com/webstore/detail/netflix-extended/gjcgfkhgpaccjpjokgpekpgpphgaanej?hl=en)
 
 ## Screenshot
 ![alt text](https://github.com/Gotham13121997/netflix-auto-pip/blob/master/screenshot/screeshot.png)
