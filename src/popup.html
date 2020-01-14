@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.css"/>
+    <title>Popup</title>
+</head>
+<body>
+<div id="popup_box" class="ui center aligned container">
+    <br/>
+    <div>Toggle Picture In Picture For Current Site</div>
+    <div class="ui tiny button" id="togglepip">Toggle</div>
+    <br/>
+    <br/>
+    <div class="ui form">
+        <div class="inline field">
+            <div class="ui toggle checkbox" id="nflxpip">
+                <input type="checkbox" tabindex="0" class="hidden">
+                <label>Enable Auto Picture In Picture For Netflix</label>
+            </div>
+        </div>
+        <div class="inline field">
+            <div class="ui toggle checkbox" id="sitepip">
+                <input type="checkbox" tabindex="0" class="hidden">
+                <label>Enable Auto Picture In Picture For Current Site(Experimental)</label>
+            </div>
+        </div>
+    </div>
+    <br/>
+
+</div>
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="jquery.js"></script>
+<script type="text/javascript" src="semantic.js"></script>
+
+<script src="popup.js"></script>
+</body>
+
+</html>
